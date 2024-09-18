@@ -15,3 +15,8 @@ Benefits:
   - Enables airlines to optimize pricing strategies, leading to increased revenue and customer satisfaction.
   - Facilitates quick decision-making for travelers and businesses in the dynamic and competitive airline industry.
   - Streamlines the booking process, improving efficiency and customer trust in online travel platforms.
+
+![image](https://github.com/user-attachments/assets/cfe2c112-ea77-4923-a33f-f4c52a668a5d)
+![image](https://github.com/user-attachments/assets/350e0f3c-9676-4c53-9d43-ffee44134acd)
+
+
